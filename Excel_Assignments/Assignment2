@@ -1,0 +1,28 @@
+Will the blank values using countif-sumif:
+
+
+number of orders in Boston :	countif
+number of microwave orders  :	countif
+number of journeys with truck 3:	countif
+number of Peter White journeys:	countif
+how many times are no. of items less than 20:	countif
+	
+	
+sum of refrigerator items:	sumif
+sum of washing machine items:	sumif
+sum of items transported by truck 4:	sumif
+sum of items transported by trucks:	sumif
+	
+	
+number of microvawe orders in Boston :	countifs
+number of Peter White journeys with truck 1:	countifs
+number of orders in Boston after 2/3/2013:	countifs
+number of orders between 2/3/2013 and 2/6/2013:	countifs
+	
+sum of microwaves transported to NY:	sumifs
+sum of items transported to Pittsburgh by truck 1:	sumifs
+sum of items ordered between 2/3/2013 and 2/6/2013:	sumifs
+	
+	
+sum of items transported to NY, Baltimore and Philadelphia:	sumifs
+
